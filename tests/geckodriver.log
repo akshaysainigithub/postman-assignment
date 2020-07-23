@@ -1,0 +1,3 @@
+1595534026362	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fp/0jyk13ts72q14rd097w1_j840000gn/T/rust_mozprofilejF0nE9"
+1595534033212	Marionette	INFO	Listening on port 53341
+1595534109047	Marionette	INFO	Stopped listening on port 53341
