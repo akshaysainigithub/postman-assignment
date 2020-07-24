@@ -115,9 +115,9 @@ Steps to run the test:
 1.	The framework and code is implemented using nightwatchjs library and written in javascript, written from scratch
 2.	Nightwatch installation will be needed on local machine in order to run the code, please follow instructions from here - https://nightwatchjs.org/gettingstarted/installation/
 3.	Along with nightwatch, please intsall selenium server, also webdriver binary for your respective browser
-4.	Once installation is complete, clone this repo - https://github.com/akshaysainigithub/Postman-CRUD-Test
+4.	Once installation is complete, clone this git repo - https://github.com/akshaysainigithub/postman-assignment
 5.	Please note: All 4 test cases above have been included in one script - Postman_CRUD_test.js
-6.	To run the test file Postman_CRUD_test.js, go to directory "/Postman-CRUD-Test/tests" and use command - nightwatch Postman_CRUD_test.js
+6.	To run the test file Postman_CRUD_test.js, go to directory "/postman-assignment/tests" in command prompt and use command - nightwatch Postman_CRUD_test.js
 
 Note:
 1.	I have used additional pause statements frequently between steps to provide additional time buffer in order to visually check the various steps taking place and not rush through. However, these pause statement would not be mandatory in actual implementation.
@@ -128,5 +128,8 @@ Note:
 Please email me at saini.akshay88@gmail.com if you run into any issues.
 
 Console screenshot:
+![](/postman_screenshot.png)
 
+Test run recording:
+![](/postman_screenRecording.mov)
 
