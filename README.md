@@ -131,5 +131,5 @@ Console screenshot:
 ![](/postman_screenshot.png)
 
 Test run recording:
-![](/postman_screenRecording.mov)
+[![Test Run Screen Recording](/postman_screenRecording.mov)]
 
